@@ -1,3 +1,4 @@
 # Test Results
 
-Placeholder folder.
+Placeholder folder(and file). This is were results are saved.
+

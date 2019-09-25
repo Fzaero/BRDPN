@@ -1,0 +1,7 @@
+Data/
+Test_Results/
+*/.ipynb_checkpoints/
+*.pyc
+
+!Data/README.md
+!Test_Results/README.md
