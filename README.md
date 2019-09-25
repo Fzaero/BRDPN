@@ -22,5 +22,5 @@ Pretrained models are available in Models folder.
 
 ----
 
-[[website]](https://fzaero.github.io/BRDPN/) [[paper-pdf]](https://fzaero.github.io/assets/papers/BRDPN.pdf) [[video]](https://youtu.be/uWPr7IFT_9k) [[Arxiv]](https://arxiv.org/abs/1909.03785)
+[[Website]](https://fzaero.github.io/BRDPN/) [[Paper-pdf]](https://fzaero.github.io/assets/papers/BRDPN.pdf) [[Video]](https://youtu.be/uWPr7IFT_9k) [[Arxiv]](https://arxiv.org/abs/1909.03785)
 
