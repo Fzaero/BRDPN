@@ -12,8 +12,14 @@ Models are trained in Python 2.7.
 Required Packages:
 numpy, matplotlib, keras,tensorflow-gpu, tqdm, scikit-learn
 
-Required FFMPEG codec for manimation on matplotlib.
+You can also use:
 
+    conda env create -f environment.yml
+
+
+Required FFMPEG codec for manimation on matplotlib. This is required for creating the animations for effect predictions in matplotlib.
+
+    sudo apt install ffmpeg
 ----
 
 Datasets needs to be downloaded. Instructions can be found in Data folder. 
